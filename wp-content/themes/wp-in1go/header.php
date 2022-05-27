@@ -51,7 +51,6 @@
         <li class="sub-item"><a href="<?=bloginfo('url');?>/marketing-services/">MARKETING SERVICES</a></li>
 		    <li class="sub-item"><a href="<?=bloginfo('url');?>/it-outsourcing/">IT OUTSOURCING</a></li>
 	    	<li class="sub-item"><a href="<?=bloginfo('url');?>/professional-services/">PROFESSIONAL SERVICES</a></li>
-		  <li class="sub-item"><a href="<?=bloginfo('url');?>">HRIS</a></li>
       </ul>
     </li>
     <li class="item"><a href="<?=bloginfo('url');?>/partners/">PARTNERS</a></li>

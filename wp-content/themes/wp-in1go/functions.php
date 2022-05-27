@@ -1,4 +1,5 @@
 <?php
+	
 @ini_set( 'upload_max_size' , '1000M' );
 @ini_set( 'post_max_size', '100M');
 @ini_set( 'max_execution_time', '300' );
@@ -27,8 +28,6 @@
 // }
 // add_action('init', 'modify_jquery_version');
 
-
-//! remove wp version number from scripts and styles
 function remove_css_js_version( $src ) {
     if( strpos( $src, '?ver=' ) )
         $src = remove_query_arg( 'ver', $src );
@@ -37,17 +36,16 @@ function remove_css_js_version( $src ) {
 add_filter( 'style_loader_src', 'remove_css_js_version', 9999 );
 add_filter( 'script_loader_src', 'remove_css_js_version', 9999 );
 
-//! For Local Dev Environment only
 
 // ?EnQue - Dependencies
 // !Add Css
 function fj_addstyle(){
-  wp_enqueue_style('style',get_template_directory_uri()."/style.css");
+  wp_enqueue_style('style',get_template_directory_uri()."/style.minified.css");
 }
  add_action('wp_enqueue_scripts','fj_addstyle');
 //!Add Scripts
 function fj_addscripts(){
-  wp_enqueue_script('scripts',get_template_directory_uri()."/js/mainjs.js");
+  wp_enqueue_script('scripts',get_template_directory_uri()."/js/mainjs.js",array(),'1.0',true);
 }
  add_action('wp_enqueue_scripts','fj_addscripts');
  //?EnQue - Dependencies

@@ -35,7 +35,7 @@
 <link rel="preconnect" href="https://connect.facebook.net">
 <meta name='robots' content='noindex, follow' />
 
-	<!-- This site is optimized with the Yoast SEO plugin v18.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v18.9 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Uncategorized Archives | In1Go Technologies Inc.</title>
 	<meta name="description" content="In1Go Technologies, Inc. is a progressive project management/software development firm leveraging technology to create value and make a difference." />
 	<meta property="og:locale" content="en_US" />
@@ -49,7 +49,7 @@
 	<meta property="og:image:height" content="360" />
 	<meta property="og:image:type" content="image/png" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://in1gotech.com/#organization","name":"In1Go Technologies Inc.","url":"https://in1gotech.com/","sameAs":["https://www.facebook.com/in1gotech/","https://ph.linkedin.com/company/in1gotech","https://www.youtube.com/channel/UCWu79HfXHYax8e-wnLhJU3g/videos"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://in1gotech.com/#/schema/logo/image/","url":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","contentUrl":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","width":360,"height":360,"caption":"In1Go Technologies Inc."},"image":{"@id":"https://in1gotech.com/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://in1gotech.com/#website","url":"https://in1gotech.com/","name":"In1Go Technologies Inc.","description":"VISIBILITY. OPTIMIZATION. INNOVATION.","publisher":{"@id":"https://in1gotech.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://in1gotech.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://in1gotech.com/category/uncategorized/#webpage","url":"https://in1gotech.com/category/uncategorized/","name":"Uncategorized Archives | In1Go Technologies Inc.","isPartOf":{"@id":"https://in1gotech.com/#website"},"description":"In1Go Technologies, Inc. is a progressive project management/software development firm leveraging technology to create value and make a difference.","breadcrumb":{"@id":"https://in1gotech.com/category/uncategorized/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://in1gotech.com/category/uncategorized/"]}]},{"@type":"BreadcrumbList","@id":"https://in1gotech.com/category/uncategorized/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://in1gotech.com/"},{"@type":"ListItem","position":2,"name":"Uncategorized"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://in1gotech.com/#organization","name":"In1Go Technologies Inc.","url":"https://in1gotech.com/","sameAs":["https://ph.linkedin.com/company/in1gotech","https://www.youtube.com/channel/UCWu79HfXHYax8e-wnLhJU3g/videos","https://www.facebook.com/in1gotech/"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://in1gotech.com/#/schema/logo/image/","url":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","contentUrl":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","width":360,"height":360,"caption":"In1Go Technologies Inc."},"image":{"@id":"https://in1gotech.com/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://in1gotech.com/#website","url":"https://in1gotech.com/","name":"In1Go Technologies Inc.","description":"VISIBILITY. OPTIMIZATION. INNOVATION.","publisher":{"@id":"https://in1gotech.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://in1gotech.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://in1gotech.com/category/uncategorized/#webpage","url":"https://in1gotech.com/category/uncategorized/","name":"Uncategorized Archives | In1Go Technologies Inc.","isPartOf":{"@id":"https://in1gotech.com/#website"},"description":"In1Go Technologies, Inc. is a progressive project management/software development firm leveraging technology to create value and make a difference.","breadcrumb":{"@id":"https://in1gotech.com/category/uncategorized/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://in1gotech.com/category/uncategorized/"]}]},{"@type":"BreadcrumbList","@id":"https://in1gotech.com/category/uncategorized/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://in1gotech.com/"},{"@type":"ListItem","position":2,"name":"Uncategorized"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -82,8 +82,8 @@ gtag("config", "G-M1PCSS8CQV");
 <script type='text/javascript' src='https://in1gotech.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js' id='smush-lazy-load-js'></script>
 <link rel="https://api.w.org/" href="https://in1gotech.com/wp-json/" /><link rel="alternate" type="application/json" href="https://in1gotech.com/wp-json/wp/v2/categories/1" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://in1gotech.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://in1gotech.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.9.3" />
-<meta name="generator" content="Site Kit by Google 1.74.0" />		<script>
+<meta name="generator" content="WordPress 6.0" />
+<meta name="generator" content="Site Kit by Google 1.75.0" />		<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -320,9 +320,9 @@ var renderInvisibleReCaptcha = function() {
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 31/44 objects using disk
+Object Caching 2/114 objects using disk
 Page Caching using disk: enhanced 
-Database Caching using disk
+Database Caching using disk (Request-wide modification query)
 
-Served from: in1gotech.com @ 2022-05-24 02:59:23 by W3 Total Cache
+Served from: in1gotech.com @ 2022-06-06 02:45:11 by W3 Total Cache
 -->

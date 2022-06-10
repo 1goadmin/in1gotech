@@ -35,7 +35,7 @@
 <link rel="preconnect" href="https://connect.facebook.net">
 <meta name='robots' content='noindex, follow' />
 
-	<!-- This site is optimized with the Yoast SEO plugin v18.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v18.9 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>CMOS | In1Go Technologies Inc.</title>
 	<meta name="description" content="In1Go Technologies, Inc. is a progressive project management/software development firm leveraging technology to create value and make a difference." />
 	<meta property="og:locale" content="en_US" />
@@ -50,7 +50,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://in1gotech.com/#organization","name":"In1Go Technologies Inc.","url":"https://in1gotech.com/","sameAs":["https://www.facebook.com/in1gotech/","https://ph.linkedin.com/company/in1gotech","https://www.youtube.com/channel/UCWu79HfXHYax8e-wnLhJU3g/videos"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://in1gotech.com/#/schema/logo/image/","url":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","contentUrl":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","width":360,"height":360,"caption":"In1Go Technologies Inc."},"image":{"@id":"https://in1gotech.com/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://in1gotech.com/#website","url":"https://in1gotech.com/","name":"In1Go Technologies Inc.","description":"VISIBILITY. OPTIMIZATION. INNOVATION.","publisher":{"@id":"https://in1gotech.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://in1gotech.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://in1gotech.com/cmos/#primaryimage","url":"https://in1gotech.com/wp-content/uploads/2021/07/300x300-v1CMOS.png","contentUrl":"https://in1gotech.com/wp-content/uploads/2021/07/300x300-v1CMOS.png","width":300,"height":300,"caption":"CMOS"},{"@type":"WebPage","@id":"https://in1gotech.com/cmos/#webpage","url":"https://in1gotech.com/cmos/","name":"CMOS | In1Go Technologies Inc.","isPartOf":{"@id":"https://in1gotech.com/#website"},"primaryImageOfPage":{"@id":"https://in1gotech.com/cmos/#primaryimage"},"datePublished":"2021-06-16T04:12:55+00:00","dateModified":"2022-03-08T01:11:18+00:00","description":"In1Go Technologies, Inc. is a progressive project management/software development firm leveraging technology to create value and make a difference.","breadcrumb":{"@id":"https://in1gotech.com/cmos/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://in1gotech.com/cmos/"]}]},{"@type":"BreadcrumbList","@id":"https://in1gotech.com/cmos/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://in1gotech.com/"},{"@type":"ListItem","position":2,"name":"CMOS"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://in1gotech.com/#organization","name":"In1Go Technologies Inc.","url":"https://in1gotech.com/","sameAs":["https://ph.linkedin.com/company/in1gotech","https://www.youtube.com/channel/UCWu79HfXHYax8e-wnLhJU3g/videos","https://www.facebook.com/in1gotech/"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://in1gotech.com/#/schema/logo/image/","url":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","contentUrl":"https://in1gotech.com/wp-content/uploads/2021/06/thumb1.png","width":360,"height":360,"caption":"In1Go Technologies Inc."},"image":{"@id":"https://in1gotech.com/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://in1gotech.com/#website","url":"https://in1gotech.com/","name":"In1Go Technologies Inc.","description":"VISIBILITY. OPTIMIZATION. INNOVATION.","publisher":{"@id":"https://in1gotech.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://in1gotech.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://in1gotech.com/cmos/#primaryimage","url":"https://in1gotech.com/wp-content/uploads/2021/07/300x300-v1CMOS.png","contentUrl":"https://in1gotech.com/wp-content/uploads/2021/07/300x300-v1CMOS.png","width":300,"height":300,"caption":"CMOS"},{"@type":"WebPage","@id":"https://in1gotech.com/cmos/#webpage","url":"https://in1gotech.com/cmos/","name":"CMOS | In1Go Technologies Inc.","isPartOf":{"@id":"https://in1gotech.com/#website"},"primaryImageOfPage":{"@id":"https://in1gotech.com/cmos/#primaryimage"},"datePublished":"2021-06-16T04:12:55+00:00","dateModified":"2022-03-08T01:11:18+00:00","description":"In1Go Technologies, Inc. is a progressive project management/software development firm leveraging technology to create value and make a difference.","breadcrumb":{"@id":"https://in1gotech.com/cmos/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://in1gotech.com/cmos/"]}]},{"@type":"BreadcrumbList","@id":"https://in1gotech.com/cmos/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://in1gotech.com/"},{"@type":"ListItem","position":2,"name":"CMOS"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -76,7 +76,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </style>
 <link rel='stylesheet' id='happy-icons-css'  href='https://in1gotech.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='https://in1gotech.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.0' type='text/css' media='all' />
 <!--n2css--><script type='text/javascript' src='https://in1gotech.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://in1gotech.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
 
@@ -93,11 +93,11 @@ gtag("config", "G-M1PCSS8CQV");
 <script type='text/javascript' src='https://in1gotech.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js' id='smush-lazy-load-js'></script>
 <link rel="https://api.w.org/" href="https://in1gotech.com/wp-json/" /><link rel="alternate" type="application/json" href="https://in1gotech.com/wp-json/wp/v2/pages/2412" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://in1gotech.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://in1gotech.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.9.3" />
+<meta name="generator" content="WordPress 6.0" />
 <link rel='shortlink' href='https://in1gotech.com/?p=2412' />
 <link rel="alternate" type="application/json+oembed" href="https://in1gotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fin1gotech.com%2Fcmos%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://in1gotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fin1gotech.com%2Fcmos%2F&#038;format=xml" />
-<meta name="generator" content="Site Kit by Google 1.74.0" />		<script>
+<meta name="generator" content="Site Kit by Google 1.75.0" />		<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -425,7 +425,7 @@ var renderInvisibleReCaptcha = function() {
 <script type='text/javascript' src='https://in1gotech.com/wp-content/uploads/wpmss/wpmss.min.js' id='wpmss-js'></script>
 <script type='text/javascript' id='happy-elementor-addons-js-extra'>
 /* <![CDATA[ */
-var HappyLocalize = {"ajax_url":"https:\/\/in1gotech.com\/wp-admin\/admin-ajax.php","nonce":"9d8119ad57","pdf_js_lib":"https:\/\/in1gotech.com\/wp-content\/plugins\/happy-elementor-addons\/assets\/vendor\/pdfjs\/lib"};
+var HappyLocalize = {"ajax_url":"https:\/\/in1gotech.com\/wp-admin\/admin-ajax.php","nonce":"463b5d4e1d","pdf_js_lib":"https:\/\/in1gotech.com\/wp-content\/plugins\/happy-elementor-addons\/assets\/vendor\/pdfjs\/lib"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://in1gotech.com/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js' id='happy-elementor-addons-js'></script>
@@ -472,9 +472,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 0/111 objects using disk
+Object Caching 3/82 objects using disk
 Page Caching using disk: enhanced 
 Database Caching using disk (Request-wide modification query)
 
-Served from: in1gotech.com @ 2022-05-13 19:08:17 by W3 Total Cache
+Served from: in1gotech.com @ 2022-05-27 20:13:00 by W3 Total Cache
 -->

@@ -12,7 +12,7 @@
 	<atom:link href="https://1goadmin.github.io/in1gotech/feed/" rel="self" type="application/rss+xml" />
 	<link>https://1goadmin.github.io/in1gotech</link>
 	<description>VISIBILITY. OPTIMIZATION. INNOVATION.</description>
-	<lastBuildDate>Tue, 08 Mar 2022 01:22:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jun 2022 05:52:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Smart Logistics for Safety &#038; Sustainability</title>
+		<link>https://1goadmin.github.io/in1gotech/2022/06/10/euroawards/</link>
+					<comments>https://1goadmin.github.io/in1gotech/2022/06/10/euroawards/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2022 00:42:52 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://1goadmin.github.io/in1gotech/?p=7509</guid>
+
+					<description><![CDATA[<p>The transportation industry plays a major factor and provides a significant impact on the state of carbon footprint in the environment. As a tech &#8211; company, our focus has always been providing innovative supply chain and logistics solutions to meet the adverse impact of the evolving transport landscape driven by increasing city density, road network [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://1goadmin.github.io/in1gotech/2022/06/10/euroawards/">Smart Logistics for Safety &#038; Sustainability</a> appeared first on <a rel="nofollow" href="https://1goadmin.github.io/in1gotech">In1Go Technologies Inc.</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://1goadmin.github.io/in1gotech/2022/06/10/euroawards/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Software Developer Team Lead</title>
 		<link>https://1goadmin.github.io/in1gotech/2021/10/12/software-developer-team-lead/</link>
 		
@@ -101,24 +120,15 @@
 		
 		
 			</item>
-		<item>
-		<title>In1Go and AIM collaborate for data science project &#8211; [PressReader.com]</title>
-		<link>https://1goadmin.github.io/in1gotech/2021/07/27/in1go-and-aim-collaborate-for-data-science-project-pressreader/</link>
-					<comments>https://1goadmin.github.io/in1gotech/2021/07/27/in1go-and-aim-collaborate-for-data-science-project-pressreader/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 27 Jul 2021 01:51:38 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress/in1go/?p=4682</guid>
-
-					<description><![CDATA[<p>Technology Company in the Philippines that has partnered with the Asian Institute of Management (AIM) for the data science project Capstone Project Collaboration.</p>
-<p>The post <a rel="nofollow" href="https://1goadmin.github.io/in1gotech/2021/07/27/in1go-and-aim-collaborate-for-data-science-project-pressreader/">In1Go and AIM collaborate for data science project &#8211; [PressReader.com]</a> appeared first on <a rel="nofollow" href="https://1goadmin.github.io/in1gotech">In1Go Technologies Inc.</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://1goadmin.github.io/in1gotech/2021/07/27/in1go-and-aim-collaborate-for-data-science-project-pressreader/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
 	</channel>
 </rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 57/60 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+Database Caching using disk
+
+Served from: localhost @ 2022-06-10 09:26:01 by W3 Total Cache
+-->

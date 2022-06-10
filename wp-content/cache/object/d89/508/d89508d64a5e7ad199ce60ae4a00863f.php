@@ -1,4 +1,4 @@
-Îóêb<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:3359;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-06-29 01:25:07";s:13:"post_date_gmt";s:19:"2021-06-29 01:25:07";s:12:"post_content";s:15728:"<h1 style="text-align: center;">DATA PRIVACY POLICY</h1>
+˙£b<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:3359;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-06-29 01:25:07";s:13:"post_date_gmt";s:19:"2021-06-29 01:25:07";s:12:"post_content";s:15728:"<h1 style="text-align: center;">DATA PRIVACY POLICY</h1>
 In1Go needs to gather and use certain information about individuals and organizations. These can include customers, suppliers, business contacts, employees and other people that In1Go has a relationship with or may need to contact.
 
 This policy describes how these data must be collected, handled and stored to meet the company‚Äôs data privacy standards and to comply with existing laws.

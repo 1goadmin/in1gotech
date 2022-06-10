@@ -76,7 +76,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </style>
 <link rel='stylesheet' id='happy-icons-css'  href='https://in1gotech.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='https://in1gotech.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.0' type='text/css' media='all' />
 <!--n2css--><script type='text/javascript' src='https://in1gotech.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://in1gotech.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
 
@@ -93,7 +93,7 @@ gtag("config", "G-M1PCSS8CQV");
 <script type='text/javascript' src='https://in1gotech.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js' id='smush-lazy-load-js'></script>
 <link rel="https://api.w.org/" href="https://in1gotech.com/wp-json/" /><link rel="alternate" type="application/json" href="https://in1gotech.com/wp-json/wp/v2/pages/3837" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://in1gotech.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://in1gotech.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.9.3" />
+<meta name="generator" content="WordPress 6.0" />
 <link rel='shortlink' href='https://in1gotech.com/?p=3837' />
 <link rel="alternate" type="application/json+oembed" href="https://in1gotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fin1gotech.com%2Ftms%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://in1gotech.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fin1gotech.com%2Ftms%2F&#038;format=xml" />
@@ -475,9 +475,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 18/71 objects using disk
+Object Caching 33/49 objects using disk
 Page Caching using disk: enhanced 
-Database Caching 1/37 queries in 0.022 seconds using disk
+Database Caching 4/19 queries in 0.047 seconds using disk
 
-Served from: in1gotech.com @ 2022-05-27 02:15:43 by W3 Total Cache
+Served from: in1gotech.com @ 2022-05-27 09:40:38 by W3 Total Cache
 -->
